@@ -1,6 +1,8 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# OPTIONS_GHC -fno-warn-orphans #-}
 
+import Control.Applicative ((<$>), (<*>))
+
 import Data.Text (Text, pack)
 import qualified Data.Map.Strict as M
 import qualified Data.Yaml as Yaml
