@@ -6,7 +6,7 @@ description:
     .
     It can for example extract information about the configured LXD remotes on
     your system.
-homepage:            https://github.com/hverr/lxd-client-config#readme
+homepage:            https://github.com/hverr/haskell-lxd-client-config#readme
 license:             GPL-3
 license-file:        LICENSE
 author:              Henri Verroken
@@ -49,4 +49,4 @@ test-suite lxd-client-config-test
 
 source-repository head
   type:     git
-  location: https://github.com/hverr/lxd-client-config
+  location: https://github.com/hverr/haskell-lxd-client-config
