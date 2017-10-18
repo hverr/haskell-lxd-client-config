@@ -1,5 +1,5 @@
 name:                lxd-client-config
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Read the configuration file of the standard LXD client.
 description:
     This package can read the configuration file of the standard LXD client.
