@@ -16,6 +16,7 @@ category:            System
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
+extra-source-files:  data/example-config.yml
 
 library
   hs-source-dirs:      src
